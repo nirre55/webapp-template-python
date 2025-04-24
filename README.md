@@ -14,7 +14,8 @@ Ce dépôt est une template pour démarrer rapidement une application web avec u
 
 2. **Supprimer l'historique git :**
    ```bash
-    rm -rf .git
+    rm -rf .git # ou Remove-Item -Recurse -Force .git sous powershell windows 
+                # ou rmdir /s /q .git sous cmd 
     git init
     git remote add origin <nouveau-repo-url>
     git add .
