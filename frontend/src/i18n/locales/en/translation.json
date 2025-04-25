@@ -1,0 +1,12 @@
+{
+    "welcome": "Welcome to our application",
+    "navigation": {
+      "home": "Home",
+      "about": "About",
+      "contact": "Contact"
+    },
+    "buttons": {
+      "submit": "Submit",
+      "cancel": "Cancel"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "welcome": "Bienvenue sur notre application",
+    "navigation": {
+      "home": "Accueil",
+      "about": "À propos",
+      "contact": "Contact"
+    },
+    "buttons": {
+      "submit": "Soumettre",
+      "cancel": "Annuler"
+    }
+  }
